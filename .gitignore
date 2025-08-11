@@ -1,1 +1,19 @@
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# OS-specific clutter
+.DS_Store
+Thumbs.db
+
+# qBraid temp files
+*.log
+*.tmp
+
+# Large simulation outputs
+*.csv
+*.npz
 
