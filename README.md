@@ -2,7 +2,7 @@
 ## Quantum Walks and Monte Carlo
 ### contributer
 Name : Unique Dhakal
-Enrolled Id : gst-vqdADzObPErh7wd
+Enrolled Id : gst-vqdADzObPErh7wD
 
 ## Executive summery 
 
