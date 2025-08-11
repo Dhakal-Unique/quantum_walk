@@ -1,7 +1,8 @@
 # quantum_walk
 ## Quantum Walks and Monte Carlo
-### contributer
-Name : Unique Dhakal
+### Auther
+Name : Unique Dhakal     
+
 Enrolled Id : gst-vqdADzObPErh7wD
 
 ## Executive summery 
